@@ -1,4 +1,16 @@
 # Dependencies
 markdown:         kramdown
 
+# Setup
+author:
+  name:           "Openstax"
+  url:            http://cnx.org
+
+
+title:            "Openstax Sociology"
+
+# Custom vars
+version:          7.14
+origin:           http://cnx.org/contents/afe4332a-c97f-4fc4-be27-4e4d384a32d8@7.14
+
 bookviewer:       http://philschatz.com/book-viewer

@@ -1,1 +1,3 @@
 /_site
+/resources/*.dbk
+/resources/*.jar

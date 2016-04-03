@@ -1,0 +1,1636 @@
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml"
+                xmlns:cnx="http://cnx.rice.edu/cnxml"
+                xmlns:cnxorg="http://cnx.rice.edu/system-info"
+                xmlns:md="http://cnx.rice.edu/mdml"
+                xmlns:col="http://cnx.rice.edu/collxml"
+                xmlns:cnxml="http://cnx.rice.edu/cnxml"
+                xmlns:m="http://www.w3.org/1998/Math/MathML"
+                xmlns:q="http://cnx.rice.edu/qml/1.0"
+                xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                xmlns:bib="http://bibtexml.sf.net/"
+                xmlns:cc="http://web.resource.org/cc/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/col11407/1.7</md:content-url>
+  <md:content-id>col11407</md:content-id>
+  <md:title>Introduction to Sociology</md:title>
+  
+  
+  <md:version>1.7</md:version>
+  <md:created>2012/02/01 14:00:48.273 US/Central</md:created>
+  <md:revised>2012/06/12 12:32:24.672 GMT-5</md:revised>
+
+  <md:actors>
+    
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax College</md:shortname>
+      <md:fullname>OpenStax College</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:organization>
+    
+    
+    
+    
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    
+    
+    
+    <md:person userid="soccap">
+      <md:firstname>Sociology</md:firstname>
+      <md:surname>Cap</md:surname>
+      <md:fullname>Sociology Cap</md:fullname>
+      <md:email>dcwill@rice.edu</md:email>
+    </md:person>
+    
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege soccap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+    
+    
+  </md:roles>
+
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  
+  
+  
+  
+
+  
+
+  <md:keywordlist>
+    <md:keyword>aging</md:keyword>
+    <md:keyword>assembling perspective</md:keyword>
+    <md:keyword>authority</md:keyword>
+    <md:keyword>bureaucracies</md:keyword>
+    <md:keyword>collective behavior</md:keyword>
+    <md:keyword>conflict theory</md:keyword>
+    <md:keyword>conformity</md:keyword>
+    <md:keyword>crime</md:keyword>
+    <md:keyword>culture</md:keyword>
+    <md:keyword>demography</md:keyword>
+    <md:keyword>deviance</md:keyword>
+    <md:keyword>discrimination</md:keyword>
+    <md:keyword>diversity</md:keyword>
+    <md:keyword>economy</md:keyword>
+    <md:keyword>education</md:keyword>
+    <md:keyword>emergent-norm perspective</md:keyword>
+    <md:keyword>Emile Durkheim</md:keyword>
+    <md:keyword>environment</md:keyword>
+    <md:keyword>ethics</md:keyword>
+    <md:keyword>ethnicity</md:keyword>
+    <md:keyword>experiment</md:keyword>
+    <md:keyword>family</md:keyword>
+    <md:keyword>feminist theory</md:keyword>
+    <md:keyword>field research</md:keyword>
+    <md:keyword>formal organizations</md:keyword>
+    <md:keyword>functionalism</md:keyword>
+    <md:keyword>gender</md:keyword>
+    <md:keyword>global inequality</md:keyword>
+    <md:keyword>globalization</md:keyword>
+    <md:keyword>government</md:keyword>
+    <md:keyword>health</md:keyword>
+    <md:keyword>in-groups</md:keyword>
+    <md:keyword>Karl Marx</md:keyword>
+    <md:keyword>marriage</md:keyword>
+    <md:keyword>Max Weber</md:keyword>
+    <md:keyword>McDonaldization</md:keyword>
+    <md:keyword>medicine</md:keyword>
+    <md:keyword>minority groups</md:keyword>
+    <md:keyword>modernization</md:keyword>
+    <md:keyword>out-groups</md:keyword>
+    <md:keyword>politics</md:keyword>
+    <md:keyword>population</md:keyword>
+    <md:keyword>power</md:keyword>
+    <md:keyword>queer theory</md:keyword>
+    <md:keyword>race</md:keyword>
+    <md:keyword>religion</md:keyword>
+    <md:keyword>resocialization</md:keyword>
+    <md:keyword>sanctions</md:keyword>
+    <md:keyword>sex</md:keyword>
+    <md:keyword>social change</md:keyword>
+    <md:keyword>social class</md:keyword>
+    <md:keyword>social control</md:keyword>
+    <md:keyword>social movements</md:keyword>
+    <md:keyword>social stratification</md:keyword>
+    <md:keyword>social structure</md:keyword>
+    <md:keyword>socialization</md:keyword>
+    <md:keyword>sociology</md:keyword>
+    <md:keyword>stereotypes</md:keyword>
+    <md:keyword>survey</md:keyword>
+    <md:keyword>symbolic interactionism</md:keyword>
+    <md:keyword>urbanization</md:keyword>
+    <md:keyword>value-added perspective</md:keyword>
+  </md:keywordlist>
+
+  <md:subjectlist>
+    <md:subject>Social Sciences</md:subject>
+  </md:subjectlist>
+
+  <md:abstract>Introduction to Sociology was written by teams of sociology professors and writers and peer-reviewed by college instructors nationwide. The textbook was developed for OpenStax College as part of its Open Educational Resources initiative. This free online text meets standard scope and sequence requirements and incorporates current events such as the Occupy Wall Street movement. The text is designed for the Introduction to Sociology course at any two- to four-year school.</md:abstract>
+
+  <md:language>en</md:language>
+
+  
+
+  
+  <md:homepage>http://openstaxcollege.org</md:homepage>
+  <md:institution>OpenStax College</md:institution>
+  
+  
+
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+  <col:parameters>
+    <col:param name="real-imaginary-notation" value="font"/>
+    <col:param name="and-or-notation"
+               value="propositional-logic"/>
+    <col:param name="gradient-notation" value="text"/>
+    <col:param name="mean-notation" value="bar"/>
+    <col:param name="remainder-notation" value="text"/>
+    <col:param name="conjugate-notation" value="bar"/>
+    <col:param name="imaginary-i-notation" value="i"/>
+    <col:param name="scalar-product-notation"
+               value="angle-bracket"/>
+    <col:param name="print-font-size" value="10pt"/>
+    <col:param name="curl-notation" value="text"/>
+    <col:param name="for-all-equation-layout"
+               value="symbolic"/>
+    <col:param name="vector-notation" value="bold"/>
+    <col:param name="print-paper-size" value="8.5x11"/>
+    <col:param name="print-font" value="computer-modern"/>
+    <col:param name="print-style" value="ccap-sociology"/>
+    <col:param name="print-paragraph-spacing"
+               value="compact"/>
+  </col:parameters>
+  
+  <col:content>
+    
+      <col:module document="m43493" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Preface</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>An Introduction to Sociology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42980" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Sociology</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42789" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>What Is Sociology?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42794" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>The History of Sociology</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42792" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theoretical Perspectives</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42958" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Why Study Sociology?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Sociological Research</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42982" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Sociological Research</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42796" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Approaches to Sociological Research</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42960" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Research Methods</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42802" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Ethical Concerns</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Culture</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42983" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Culture</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42961" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>What Is Culture?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42807" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Elements of Culture</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42810" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Pop Culture, Subculture, and Cultural Change</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42811" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theoretical Perspectives on Culture</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Society and Social Interaction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42986" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Society and Social Interaction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42814" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Types of Societies</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42817" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Theoretical Perspectives on Society</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42964" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Social Constructions of Reality</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Socialization</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43027" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Socialization</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42830" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theories of Self Development</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42821" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Why Socialization Matters</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42825" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Agents of Socialization</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42829" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Socialization Across the Life Course</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Groups and Organization</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42991" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Groups and Organizations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42831" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Types of Groups</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42832" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Group Size and Structure</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42833" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Formal Organizations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Deviance, Crime, and Social Control</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42995" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Deviance, Crime, and Social Control</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42834" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Deviance and Control</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42950" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theoretical Perspectives on Deviance</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42835" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Crime and the Law</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Media and Technology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43029" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Media and Technology</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42836" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Technology Today</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42837" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Media and Technology in Society</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m43535" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Global Implications</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42838" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theoretical Perspectives on Media and Technology</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Social Stratification in the United States</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42998" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Social Stratification in the United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42965" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>What Is Social Stratification?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42843" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Social Stratification and Mobility in the United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42844" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Global Stratification and Inequality</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42845" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theoretical Perspectives on Social Stratification</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Global Inequality</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43004" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Global Inequality</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42847" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Global Stratification and Classification</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42968" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Global Wealth and Poverty</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42971" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theoretical Perspectives on Global Stratification</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Race and Ethnicity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43001" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Race and Ethnicity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42857" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Racial, Ethnic, and Minority Groups</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42860" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Stereotypes, Prejudice, and Discrimination</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42861" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theories of Race and Ethnicity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42864" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Intergroup Relationships</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42866" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Race and Ethnicity in the United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Gender, Sex, and Sexuality</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43031" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Gender, Sex, and Sexuality</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42869" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Difference Between Sex and Gender</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42871" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Gender</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42873" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Sex and Sexuality</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Aging and the Elderly</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43007" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Aging and the Elderly</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42874" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Who Are the Elderly? Aging in Society</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42876" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>The Process of Aging</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42880" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Challenges Facing the Elderly</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42973" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Theoretical Perspectives on Aging</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Marriage and Family</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43009" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Marriage and Family</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42886" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>What Is Marriage? What Is a Family?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42888" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Variations in Family Life</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42890" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Challenges Families Face</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Religion</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43011" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Religion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42975" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>The Sociological Approach to Religion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42897" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>World Religions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42900" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Religion in the United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Education</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43013" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Education</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42903" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Education around the World</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42905" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theoretical Perspectives on Education</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42910" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Issues in Education</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Government and Politics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43015" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Government and Politics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42912" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Power and Authority</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42914" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Forms of Government</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42916" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Politics in the United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42918" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theoretical Perspectives on Government and Power</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Work and the Economy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43017" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Work and the Economy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42922" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Economic Systems</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42923" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Globalization and the Economy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42925" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Work in the United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Health and Medicine</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43019" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Health and Medicine</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42927" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>The Social Construction of Health</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42929" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Global Health</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42931" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Health in the United States</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42932" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Comparative Health and Medicine</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42934" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Theoretical Perspectives on Health and Medicine</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Population, Urbanization, and the Environment</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43022" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Population, Urbanization, and the Environment</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42935" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Demography and Population</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42936" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Urbanization</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42937" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>The Environment and Society</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Social Movements and Social Change</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43026" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Social Movements and Social Change</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42979" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Collective Behavior</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42945" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Social Movements</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42948" version="latest"
+                  repository="https://legacy.cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Social Change</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>

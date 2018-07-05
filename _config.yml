@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Sociology 2e'
-tagline:          'from http://cnx.org/contents/02040312-72c8-441e-a685-20e9333f3e1d@9.6 (CC-BY)'
+tagline:          'from http://cnx.org/contents/02040312-72c8-441e-a685-20e9333f3e1d@10.1 (CC-BY)'
 url:              https://github.com/philschatz/sociology-book
-origin:           http://cnx.org/contents/02040312-72c8-441e-a685-20e9333f3e1d@9.6
+origin:           http://cnx.org/contents/02040312-72c8-441e-a685-20e9333f3e1d@10.1
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          9.6
+version:          10.1
 
 bookviewer:       http://philschatz.com/book-viewer
 
